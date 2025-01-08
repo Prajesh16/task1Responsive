@@ -22,7 +22,8 @@ header ul {
   padding: 0;
   display: flex;
   flex-wrap: wrap;
-  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
 }
 
 header a {
@@ -38,8 +39,6 @@ header .title {
   font-style: italic;
   font-weight: bold;
   padding: 0.5em;
-  display: flex
-;
 }
 
 main {
