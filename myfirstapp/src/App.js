@@ -4,9 +4,9 @@ function App() {
   return (
     <div className="App">
       <header>
-        <div className="title">My Website</div>
         <nav>
           <ul>
+            <li className="title">My Website</li>
             <li>
               <a href="/">Link 1</a>
             </li>
